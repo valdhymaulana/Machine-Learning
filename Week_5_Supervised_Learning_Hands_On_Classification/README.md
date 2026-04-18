@@ -1,1 +1,1 @@
-
+Proyek Machine Learning ini mengklasifikasikan spesies bunga Iris (Setosa, Versicolor, Virginica) berdasarkan dimensi fisik kelopaknya. Model ini dibangun menggunakan algoritma K-Nearest Neighbors (KNN) yang dioptimasi secara komprehensif melalui GridSearchCV. Seluruh pipeline pemrosesan data—mulai dari Exploratory Data Analysis (EDA), pembersihan data, Feature Scaling, hingga evaluasi matriks—telah diterapkan untuk menghasilkan model prediksi dengan akurasi tinggi.
